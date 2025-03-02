@@ -12,6 +12,6 @@ public class ClaseOperador {
 
         boolean resultado= (numero1>numero2) & (numero1<numero3);
         System.out.println("¿¿El primer número es mayor que el segundo y menor que el tercero?" + resultado);
-        
+
         }
 }
