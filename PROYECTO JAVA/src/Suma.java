@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Jhon {
+public class Suma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("ingrresa el primer numero: ");
@@ -11,6 +11,6 @@ public class Jhon {
       
         int suma = (num1 + num2);
         System.out.println( "el resultado de suma es igual a: " + suma);
-
+        scanner.close();
     }
 }
